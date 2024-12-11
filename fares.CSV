@@ -1,0 +1,11 @@
+SOURCE,DESTINATION,OneAC,2 AC,3 AC,ECONOMY AC,Sleeper
+Delhi,Mumbai,Rs.3000,Rs.1700,Rs.1100,Rs.900,Rs.450
+Kolkata,Chennai,Rs.3200,Rs.1800,Rs.1300,Rs.1050,Rs.540
+Bangalore,Hyderabad,Rs.3300,Rs.1650,Rs.1250,Rs.870,Rs.300
+Jaipur,Ahmedabad,Rs.4500,Rs.1540,Rs.1430,Rs.650,Rs.230
+Lucknow,Bhopal,Rs.3500,Rs.1456,Rs.1140,Rs.780,Rs.320
+Patna,Ranchi,Rs.4000,Rs.1345,Rs.1240,Rs.760,Rs.256
+Kochi,Coimbatore,Rs.2000,Rs.1570,Rs.1234,Rs.950,Rs.124
+Indore,Nagpur,Rs.1800,Rs.1680,Rs.1560,Rs.690,Rs.134
+Chandigarh,Amritsar,Rs.2400,Rs.1790,Rs.1540,Rs.750,Rs.160
+Vishakhapatnam,Pune,Rs.3450,Rs.1800,Rs.1300,Rs.850,Rs.400
